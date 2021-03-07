@@ -4,7 +4,7 @@ layout: "layout"
 
 Hallo!
 
-This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
+This is Operating Systems 2021-1 (OS211) and I am Adam Syauqi Medise.
 
-Qapla, Jolan Tru!<br>[====](GitHubPages/)[======](REPORT/00/)
+Welcome to my Github Page!<br>[Home](index.md)[Week 1](w01.md)
 
