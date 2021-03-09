@@ -8,3 +8,4 @@ ZCZC W01 90 L13 Assignment #3 learning vim using vimtutor
 ZCZC W01 120 L10 Assignments (General)
 ZCZC W01 60 L09 AsDos: Asking
 ZCZC W01 120 L10 Assignments (General)
+ZCZC W02 15 L23 Discord Discussion
