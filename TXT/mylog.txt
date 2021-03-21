@@ -14,3 +14,8 @@ ZCZC W02 120 L06 Reading References/Books/Documents
 ZCZC W02 120 L05 GSGS
 ZCZC W02 60 L10 Assignments General
 ZCZC W02 30 L23 Discord Discussion
+ZCZC W03 180 L10 Assignments (General)
+ZCZC W03 100 L02 ZOOM related
+ZCZC W03 60 L05 GSGS Related
+ZCZC W03 30 L01 SCELE Related
+ZCZC W03 30 L23 Discord: Discussion
