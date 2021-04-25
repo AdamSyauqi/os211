@@ -26,3 +26,5 @@ ZCZC W05 60 L10 Assignments (General)
 ZCZC W05 30 L06 Reading Chapter 10
 ZCZC W05 15 VirtualBox: Trying to find the lowest possible base memory
 ZCZC W05 L05 180 GSGS Related
+ZCZC W06 L05 180 GSGS Related
+ZCZC W06 120 L10 Assignments (General)
