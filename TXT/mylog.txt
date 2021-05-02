@@ -28,3 +28,6 @@ ZCZC W05 15 VirtualBox: Trying to find the lowest possible base memory
 ZCZC W05 L05 180 GSGS Related
 ZCZC W06 L05 180 GSGS Related
 ZCZC W06 120 L10 Assignments (General)
+ZCZC W07 180 L10 Assignments (General)
+ZCZC W07 60 L05 GSGS Related
+ZCZC W07 30 L01 Scele Related
