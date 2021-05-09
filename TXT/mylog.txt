@@ -31,3 +31,5 @@ ZCZC W06 120 L10 Assignments (General)
 ZCZC W07 180 L10 Assignments (General)
 ZCZC W07 60 L05 GSGS Related
 ZCZC W07 30 L01 Scele Related
+ZCZC W08 240 L21 VirtualBox: LFS installing
+ZCZC W08 120 L05 GSGS Related 
